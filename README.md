@@ -2,11 +2,11 @@
 
 **RestFinder** is a modern, high-performance web application designed for discovering and rating the best local restaurants. Originally conceived as a Java/MySQL backend project, this version reimagines the experience as a sleek, interactive single-page application (SPA) built with modern web standards.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-orange?style=for-the-badge)](https://rest-finder-seif.netlify.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-orange?style=for-the-badge)](https://rest-finder-seif-demo.netlify.app)
 
 ## 🚀 Experience the Demo
 
-The application is deployed and accessible at: **[rest-finder-seif.netlify.app](https://rest-finder-seif.netlify.app)**
+The application is deployed and accessible at: **[rest-finder-seif-demo.netlify.app](https://rest-finder-seif-demo.netlify.app)**
 
 ## ✨ Key Features
 
